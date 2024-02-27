@@ -1,3 +1,3 @@
-# SharinganSwiftUI
+# QRView
 
-![Sharingan](sharingan.png)
+![QRView](QRView.png)
